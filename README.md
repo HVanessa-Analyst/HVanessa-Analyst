@@ -1,11 +1,16 @@
 # Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Analyzing data to provide actionable insights, utilizing tools like SQL, Tableau, and Python to optimize workflows and ensure data-driven decision-making. I'm also advancing my knowledge in machine learning and optimization as part of my graduate studies.<br><br>🤝 I’m looking to collaborate on<br>Projects that involve predictive analytics, financial modeling, or creating dashboards to improve business processes. I'm particularly interested in collaborating on initiatives that leverage tools like Alteryx and Tableau for impactful visualizations.<br><br>✋ I’m looking for help with<br>Mastering advanced machine learning techniques and gaining deeper insights into big data management to enhance my problem-solving skills.<br><br>🌱 I’m currently learning<br>Stochastic modeling, database management, and advanced Python techniques for analytical decision-making, as well as honing my skills in RStudio for statistical forecasting.<br><br>💬 Ask me about<br>How to utilize tools like Alteryx and SQL to streamline processes, insights from my work with Freddie Mac on credit risk transactions, or tips for building effective dashboards in Tableau.<br><br>⚡ Fun fact<br>I’ve led a simulation stock market for students as part of a professional development initiative, and I’m fluent in both English and Spanish, making me versatile in diverse work environments.
+## 💫 About Me:
+🎓 I hold a Bachelor of Science in Accounting and a Bachelor of Arts in Sociology with a minor in Spanish from Emory & Henry College, and I’m currently pursuing a Master’s degree in Business Analytics at the College of William & Mary. My professional experiences include roles as a Finance Analyst Fellow at Freddie Mac and as a Research Fellow, where I’ve honed my skills in data analysis, financial modeling, and workflow optimization.
 
+🔭 **What I’m working on:**  
+Analyzing data to provide actionable insights, utilizing tools like SQL, Tableau, and Python to optimize workflows and ensure data-driven decision-making. I'm also advancing my knowledge in machine learning and optimization as part of my graduate studies.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/va-hernandez) 
+🤝 **What I’m looking to collaborate on:**  
+Projects that involve predictive analytics, financial modeling, or creating dashboards to improve business processes. I'm particularly interested in initiatives that leverage tools like Alteryx and Tableau for impactful visualizations.
 
+✋ **What I’m seeking help with:**  
+Mastering advanced machine learning techniques and gaining deeper insights into big data management to enhance my problem-solving skills.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌱 **What I’m currently learning:**  
+Stochastic modeling, database management, and advanced Python techniques for analytical decision-making, as well as honing my skills in RStud
