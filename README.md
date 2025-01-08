@@ -14,3 +14,6 @@ Mastering advanced machine learning techniques and gaining deeper insights into 
 
 🌱 **What I’m currently learning:**  
 Stochastic modeling, database management, and advanced Python techniques for analytical decision-making, as well as honing my skills in RStud
+
+## 🌐 LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/va-hernandez) 
