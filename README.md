@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, my name is Vanessa Hernandez 👋
 
 ## 💫 About Me:
 🎓 I hold a Bachelor of Science in Accounting and a Bachelor of Arts in Sociology with a minor in Spanish from Emory & Henry College, and I’m currently pursuing a Master’s degree in Business Analytics at the College of William & Mary. My professional experiences include roles as a Finance Analyst Fellow at Freddie Mac and as a Research Fellow, where I’ve honed my skills in data analysis, financial modeling, and workflow optimization.
