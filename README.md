@@ -18,21 +18,46 @@ Stochastic modeling, database management, and advanced Python techniques for ana
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/va-hernandez) 
 
-## Project Summary
+# 📊 Summary of MSBA Projects (Past Three Months)
 
+During my **Master of Science in Business Analytics (MSBA)** program, I have worked on several **data-driven projects** applying **statistical modeling, predictive analytics, and business insights** to real-world scenarios.
 
-Sure! Here's a short summary of all the projects you've completed during your MSBA program over the past three months:
+## 🚀 Projects Completed:
 
-Summary of MSBA Projects (Past Three Months)
+### 📌 Customer Churn Analysis  
+- Developed an **ROC curve (k=8)** to compare classifier performance.  
+- Evaluated **sensitivity and false positive rates** for model optimization.  
 
-During my Master of Science in Business Analytics program, I have worked on several data-driven projects that required applying analytical techniques, statistical modeling, and business insights to real-world scenarios.
+### 📌 Retail Shortages Investigation  
+- Conducted a **consulting analysis** on a retailer’s shortages.  
+- Used **transaction data, price trends, and revenue impact** to provide insights.  
 
-Customer Churn Analysis: Developed an ROC curve (k=8) to compare classifier performance, evaluating sensitivity and false positive rates.
-Retail Shortages Investigation: Conducted a consulting analysis on a retailer’s shortages, using transaction data, price trends, and revenue impact to provide actionable insights.
-AstraSync RFP Decision Modeling: Designed a Monte Carlo simulation to evaluate AstraSync’s AI/ML bid strategy, incorporating gain-share rewards and risk assessment.
-NYC Taxi Trip Duration Prediction: Analyzed passenger count, distance, and fare amount to predict taxi trip duration accurately using regression models.
-Virginia Beach Crime Analysis: Built a Tableau dashboard to visualize crime trends across police patrol zones using incident data and priority classifications.
-Netflix Forecasting & Model Evaluation: Developed ETS and TSLM forecasting models in R for Netflix subscriber growth, performing cross-validation and accuracy testing.
-Airline Overbooking Simulation: Modeled Alaska Airlines’ SEA-SFO no-show rates, optimizing overbooking strategies using a 10,000-run Monte Carlo simulation.
-SQL Data Warehouse & ERD Design: Constructed an entity-relationship diagram (ERD) and data warehouse using Virginia’s open data portal for structured analytics.
-Through these projects, I have refined my skills in Python, R, SQL, Tableau, Excel, and decision modeling, while developing a strong understanding of data-driven problem-solving and business analytics applications.
+### 📌 AstraSync RFP Decision Modeling  
+- Designed a **Monte Carlo simulation** for AstraSync’s AI/ML bid strategy.  
+- Incorporated **gain-share rewards and risk assessment** in decision-making.  
+
+### 📌 NYC Taxi Trip Duration Prediction  
+- Analyzed **passenger count, distance, and fare amount** for trip duration predictions.  
+- Used regression models to improve **accuracy in taxi trip forecasts**.  
+
+### 📌 Virginia Beach Crime Analysis  
+- Built a **Tableau dashboard** visualizing crime trends across police patrol zones.  
+- Analyzed **incident data and priority classifications** for law enforcement insights.  
+
+### 📌 Netflix Forecasting & Model Evaluation  
+- Developed **ETS and TSLM forecasting models** in R for Netflix subscriber growth.  
+- Performed **cross-validation and accuracy testing** for model selection.  
+
+### 📌 Airline Overbooking Simulation  
+- Modeled **Alaska Airlines’ SEA-SFO no-show rates** for optimal overbooking.  
+- Ran a **10,000-run Monte Carlo simulation** to minimize costs and maximize efficiency.  
+
+### 📌 SQL Data Warehouse & ERD Design  
+- Constructed an **entity-relationship diagram (ERD)** and **data warehouse**.  
+- Used **Virginia’s open data portal** to structure and analyze large datasets.  
+
+## 🛠️ Technical Skills:  
+✅ **Programming:** Python, R, SQL  
+✅ **Data Visualization:** Tableau, Excel  
+✅ **Statistical Modeling:** Monte Carlo Simulation, Regression, Forecasting  
+✅ **Business Analytics:** Decision Modeling, Optimization  
