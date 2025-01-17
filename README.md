@@ -15,9 +15,6 @@ Mastering advanced machine learning techniques and gaining deeper insights into 
 🌱 **What I’m currently learning:**  
 Stochastic modeling, database management, and advanced Python techniques for analytical decision-making, as well as honing my skills in RStud
 
-## 🌐 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/va-hernandez) 
-
 # 📊 Summary of MSBA Projects (Past Three Months)
 
 During my **Master of Science in Business Analytics (MSBA)** program, I have worked on several **data-driven projects** applying **statistical modeling, predictive analytics, and business insights** to real-world scenarios.
@@ -61,3 +58,6 @@ During my **Master of Science in Business Analytics (MSBA)** program, I have wor
 ✅ **Data Visualization:** Tableau, Excel  
 ✅ **Statistical Modeling:** Monte Carlo Simulation, Regression, Forecasting  
 ✅ **Business Analytics:** Decision Modeling, Optimization  
+
+## 🌐 LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/va-hernandez) 
